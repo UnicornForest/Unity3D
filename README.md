@@ -18,7 +18,7 @@ The easiest way to install this is with [Package Control](http://wbond.net/subli
  * If you just went and installed Package Control, you probably need to restart Sublime Text 2 before doing this next bit.
  * Bring up the Command Palette (Command+Shift+p on OS X, Control+Shift+p on Linux/Windows).
  * Select "Package Control: Install Package" (it'll take a few seconds)
- * Select WordPress Codex when the list appears.
+ * Select Unity3D Syntax Highlighting when the list appears.
 
 Package Control will automatically keep Git up to date with the latest version.
 
