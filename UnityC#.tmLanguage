@@ -363,7 +363,7 @@
 			<array>
 				<dict>
 					<key>match</key>
-					<string>\b(bool|byte|sbyte|char|decimal|double|float|int|uint|long|ulong|object|short|ushort|string|void|class|struct|enum|interface|Texture2D|GUISkin|GUIStyle|GameObject|Vector2|Vector2Field|Vector3|Vector3Field|Vector4|Vector4Field|Vertex|Vertex3|Transform|Touch|TouchPhase|Color|Rect|Dictionary|List)\b</string>
+					<string>\b(var|bool|byte|sbyte|char|decimal|double|float|int|uint|long|ulong|object|short|ushort|string|void|class|struct|enum|interface|Texture2D|GUISkin|GUIStyle|GameObject|Vector2|Vector2Field|Vector3|Vector3Field|Vector4|Vector4Field|Vertex|Vertex3|Transform|Touch|TouchPhase|Color|Rect|Dictionary|List)\b</string>
 					<key>name</key>
 					<string>storage.type.source.cs</string>
 				</dict>
