@@ -1,8 +1,8 @@
 # Unity3D Syntax Highlighting 
-#### for [Sublime Text 2](http://www.sublimetext.com/2)
+#### for [Sublime Text 3](http://www.sublimetext.com/3)
 
 ## About
-This is a Sublime Text 2 package adds language definitions for syntax highlighting of Unity3d C# and JavaScript 
+This is a Sublime Text 2/3 package adds language definitions for syntax highlighting of Unity3d C# and JavaScript 
 
 ## Usage
 Once installed you can select view -> syntax -> Unity3D and then Unity C# or Unity JavaScript.
@@ -27,3 +27,5 @@ If you have some problems or improvements with it, contact me via GitHub.
 
 ## Author
 [Jacob Pennock](http://jacobpennock.com)
+
+Then 2 years later, [Sean O'Dowd](http://seanodowd.me) added a ton.
