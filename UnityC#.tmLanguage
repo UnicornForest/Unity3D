@@ -152,7 +152,7 @@
 		<!--
 		Disabled because it causes some lines to be interpreted incorrectly, for example:
 			else if (c == ')')
-		--->
+		
 
 		<dict>
 			<key>begin</key>
@@ -233,7 +233,7 @@
 					<string>#statementRemainder</string>
 				</dict>
 			</array>
-		</dict>
+		</dict-->
 
 
 		<!--
