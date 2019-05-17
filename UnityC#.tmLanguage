@@ -546,7 +546,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>source.cs</string>
+	<string>source.cs.unity3d</string>
 	<key>uuid</key>
 	<string>4621aa92-1182-4d71-b3de-6c87bb233934</string>
 </dict>
